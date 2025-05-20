@@ -1,3 +1,3 @@
-# crappy-python-code
-I suck at codeing so this is random code
+# simple ip tracker
+Hello this is a simple ip tracker coded is python with the help of copilot
 
